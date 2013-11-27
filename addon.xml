@@ -18,7 +18,7 @@
 			property or other violation of rights. </disclaimer>
 		<license>ZPL</license>
 		<platform>all</platform>
-        <source>https://github.com/zopefoundation/zope.interface</source>
+		<source>https://github.com/mablae/script.module.zope.interface.git</source>
         <website>http://docs.zope.org/zope.interface/</website>
 	</extension>
 </addon>
